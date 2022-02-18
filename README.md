@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, math, cryptography, and aerospace
 - 🌱 I’m currently learning cryptography coding math astronomy/aerospace
 - 💞️ I’m looking to collaborate on video games
-- 📫 How to reach me 00dex#3325
+- 📫 How to reach me i stole from wallmart#5460
 
 <!---
 00dex-x/00dex-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
